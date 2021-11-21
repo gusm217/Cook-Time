@@ -1,4 +1,7 @@
 # Cook Time Project
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45135641/142777978-cea36804-3d11-480a-8a51-765cf95ce3c9.png" title="app homepage" width="250">  
+</p>
 
 ### About
 Cook Time is an application fully developed for mobile, where you can: 
@@ -8,7 +11,7 @@ Cook Time is an application fully developed for mobile, where you can:
 + follow your progress while completing the chosen recipe ✅
 
 ### How to start localy
-#### ⚠️ You're gonna need Node.js installed. Can find in <a href="https://docs.npmjs.com/downloading-and-installing-node-js-and-npm" alt="url path to npm and node installation" target="_blank"> here</a> ⚠️
+#### ⚠️ You're gonna need npm and Node.js installed. Can find in <a href="https://docs.npmjs.com/downloading-and-installing-node-js-and-npm" alt="url path to npm and node installation" target="_blank"> here</a> ⚠️
 + clone this repository
 + npm install
 + npm start
