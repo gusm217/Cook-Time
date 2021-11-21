@@ -2,13 +2,13 @@
 
 ### About
 Cook Time is an application fully developed for mobile, where you can: 
-+ look up for suggestions to prepare your next meal or drink
-+ favorite them as you sign in with your account
-+ discover new food around the world
-+ follow your progress while completing the chosen recipe
++ look up for suggestions to prepare your next meal or drink 🔍
++ favorite them as you sign in with your account ⭐
++ discover new food around the world 🌎
++ follow your progress while completing the chosen recipe ✅
 
 ### How to start localy
-#### ⚠️ You're gonna need Node.js installed ⚠️
+#### ⚠️ You're gonna need Node.js installed. Can find in <a href="https://docs.npmjs.com/downloading-and-installing-node-js-and-npm" alt="url path to npm and node installation" target="_blank"> here</a> ⚠️
 + clone this repository
 + npm install
 + npm start
