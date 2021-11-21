@@ -1,4 +1,4 @@
-# Cook Time Project
+# Cook Time 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/45135641/142777978-cea36804-3d11-480a-8a51-765cf95ce3c9.png" title="app homepage" width="250">  
 </p>
